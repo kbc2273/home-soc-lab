@@ -123,10 +123,10 @@ This confirmed:
 
 ## Screenshots
 
-Add your watermarked screenshots here:
+Screenshots here:
 
 ```
-1 suricata_running_.png
+![Suricata Running](1%20suricata_running_.png)
 /images/02-live-alerts.png
 /images/03-kali-attack.png
 /images/04-kali-ip-config.png
