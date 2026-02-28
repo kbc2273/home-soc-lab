@@ -126,7 +126,7 @@ This confirmed:
 Add your watermarked screenshots here:
 
 ```
-/images/01-suricata-running.png
+1 suricata_running_.png
 /images/02-live-alerts.png
 /images/03-kali-attack.png
 /images/04-kali-ip-config.png
