@@ -124,11 +124,7 @@ This confirmed:
 ## Screenshots
 
 
-![Suricata Running](images/01-suricata-running.png)
-![Live Alerts](images/02-live-alerts.png)
-![Nmap Scan](images/03-kali-attack.png)
-![Kali IP Config](images/04-kali-ip-config.png)
-![SOC IP Config](images/05-soc-ip-config.png)
+
 
 
 ---
