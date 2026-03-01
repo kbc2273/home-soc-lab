@@ -152,13 +152,16 @@ This confirmed:
 
 ---
 
-## Key Takeaway
+## Analyst Takeaways
 
-This project demonstrates the ability to:
+This project demonstrates practical blue team skills including:
 
-* Design a segmented virtual lab
-* Deploy and validate intrusion detection systems
-* Generate and detect real reconnaissance activity
-* Document findings in a professional format
+- Building an isolated virtual SOC environment
+- Deploying and validating Suricata IDS
+- Performing active reconnaissance detection
+- Monitoring live security alerts
+- Documenting findings in a professional analyst workflow
+
+This lab simulates real-world SOC analyst responsibilities including monitoring, detection, and investigation.
 
 ---
