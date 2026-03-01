@@ -123,25 +123,13 @@ This confirmed:
 
 ## Screenshots
 
-Screenshots here:
 
-```
-![Suricata Running](1%20suricata_running_.png)
-/images/02-live-alerts.png
-/images/03-kali-attack.png
-/images/04-kali-ip-config.png
-/images/05-soc-ip-config.png
-```
-
-In Markdown format:
-
-```
 ![Suricata Running](images/01-suricata-running.png)
 ![Live Alerts](images/02-live-alerts.png)
 ![Nmap Scan](images/03-kali-attack.png)
 ![Kali IP Config](images/04-kali-ip-config.png)
 ![SOC IP Config](images/05-soc-ip-config.png)
-```
+
 
 ---
 
