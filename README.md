@@ -123,6 +123,18 @@ This confirmed:
 
 ## Screenshots
 
+### Suricata Service Running
+![Suricata Running](images/01-suricata-running.png)
+
+### Nmap Reconnaissance Scan
+![Nmap Scan](images/02-nmap-scan.png)
+
+### Kali Attacker IP Configuration
+![Kali IP](images/03-kali-ip-config.png)
+
+### SOC Server IP Configuration
+![SOC Server IP](images/04-socserver-ip-config.png)
+
 
 
 
